@@ -1,2 +1,2 @@
 this is m1
-mod
+mod mod 2
